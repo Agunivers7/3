@@ -23,7 +23,7 @@ Code 2:-
 Code 1:-
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Agunivers7/IMDb-Movie-Bot99&branch=main&name=IMDb-Movie-Bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Agunivers7/3&branch=main&name=IMDb-Movie-Bot)
 ## Variables
 
 ### Required Variables
